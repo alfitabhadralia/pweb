@@ -2,7 +2,7 @@
     <head>
         <title> Formulir </title>
         <style>
-            body {background-color: white; margin-left: 100; margin-right: 100;}  
+            body {background-color: lightblue; margin-left: 100; margin-right: 100;}  
             table, th, td {border: 1px solid black; border-collapse: collapse; }
             textarea {width:1000px}
         </style>
